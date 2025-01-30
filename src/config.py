@@ -102,3 +102,4 @@ VIZ_TRAIL_LENGTH = 500  # number of points to show in trail
 USE_GPU = True  # Try to use GPU if available
 GPU_BATCH_SIZE = 1024  # Process this many bodies at a time on GPU
 # gpu
+# fix memory
