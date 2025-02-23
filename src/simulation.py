@@ -316,3 +316,4 @@ class Simulation:
 # Fix energy drift
 # rk4
 # leapfrog verlet
+# energy
